@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Younai2021
 - 👀 I’m interested in AI(artificial intelligence), deep learning
 - 🌱 I’m currently learning CNN, transformer, computer vision, object detection...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on deep learning projects. Welcome to join me!
 - 📫 How to reach me : My QQ is 2285421427 ^-^
 
 <!---
